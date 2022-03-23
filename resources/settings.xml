@@ -1,0 +1,79 @@
+<settings>
+    <setting propertyKey="@Properties.APP_VERSION" title="@Strings.AppVersion">
+        <settingConfig type="alphaNumeric" readonly="true" />
+    </setting>
+    <setting propertyKey="@Properties.PROP_BACKGROUND_COLOR" title="@Strings.BackgroundColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.Color_Black</listEntry>
+            <listEntry value="16777215">@Strings.Color_White</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.PROP_GRID_HOURS" title="@Strings.GridColor_Hours">
+        <settingConfig type="list">
+            <listEntry value="16777215">@Strings.Color_White</listEntry>
+            <listEntry value="0">@Strings.Color_Black</listEntry>
+            <listEntry value="11184810">@Strings.Color_LtGray</listEntry>
+            <listEntry value="5592405">@Strings.Color_DkGray</listEntry>
+            <listEntry value="16711680">@Strings.Color_Red</listEntry>
+            <listEntry value="11141120">@Strings.Color_DkRed</listEntry>
+            <listEntry value="65280">@Strings.Color_Green</listEntry>
+            <listEntry value="43520">@Strings.Color_DkGreen</listEntry>
+            <listEntry value="43775">@Strings.Color_Blue</listEntry>
+            <listEntry value="255">@Strings.Color_DkBlue</listEntry>
+            <listEntry value="16733440">@Strings.Color_Orange</listEntry>
+            <listEntry value="16711935">@Strings.Color_Pink</listEntry>
+            <listEntry value="11141375">@Strings.Color_Purple</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.PROP_GRID_MINUTES" title="@Strings.GridColor_Minutes">
+        <settingConfig type="list">
+            <listEntry value="16777215">@Strings.Color_White</listEntry>
+            <listEntry value="0">@Strings.Color_Black</listEntry>
+            <listEntry value="11184810">@Strings.Color_LtGray</listEntry>
+            <listEntry value="5592405">@Strings.Color_DkGray</listEntry>
+            <listEntry value="16711680">@Strings.Color_Red</listEntry>
+            <listEntry value="11141120">@Strings.Color_DkRed</listEntry>
+            <listEntry value="65280">@Strings.Color_Green</listEntry>
+            <listEntry value="43520">@Strings.Color_DkGreen</listEntry>
+            <listEntry value="43775">@Strings.Color_Blue</listEntry>
+            <listEntry value="255">@Strings.Color_DkBlue</listEntry>
+            <listEntry value="16733440">@Strings.Color_Orange</listEntry>
+            <listEntry value="16711935">@Strings.Color_Pink</listEntry>
+            <listEntry value="11141375">@Strings.Color_Purple</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.PROP_GRID_SECONDS" title="@Strings.GridColor_Seconds">
+        <settingConfig type="list">
+            <listEntry value="16777215">@Strings.Color_White</listEntry>
+            <listEntry value="0">@Strings.Color_Black</listEntry>
+            <listEntry value="11184810">@Strings.Color_LtGray</listEntry>
+            <listEntry value="5592405">@Strings.Color_DkGray</listEntry>
+            <listEntry value="16711680">@Strings.Color_Red</listEntry>
+            <listEntry value="11141120">@Strings.Color_DkRed</listEntry>
+            <listEntry value="65280">@Strings.Color_Green</listEntry>
+            <listEntry value="43520">@Strings.Color_DkGreen</listEntry>
+            <listEntry value="43775">@Strings.Color_Blue</listEntry>
+            <listEntry value="255">@Strings.Color_DkBlue</listEntry>
+            <listEntry value="16733440">@Strings.Color_Orange</listEntry>
+            <listEntry value="16711935">@Strings.Color_Pink</listEntry>
+            <listEntry value="11141375">@Strings.Color_Purple</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.PROP_GRID_OFF" title="@Strings.GridColor_Off">
+        <settingConfig type="list">
+            <listEntry value="16777215">@Strings.Color_White</listEntry>
+            <listEntry value="0">@Strings.Color_Black</listEntry>
+            <listEntry value="11184810">@Strings.Color_LtGray</listEntry>
+            <listEntry value="5592405">@Strings.Color_DkGray</listEntry>
+            <listEntry value="16711680">@Strings.Color_Red</listEntry>
+            <listEntry value="11141120">@Strings.Color_DkRed</listEntry>
+            <listEntry value="65280">@Strings.Color_Green</listEntry>
+            <listEntry value="43520">@Strings.Color_DkGreen</listEntry>
+            <listEntry value="43775">@Strings.Color_Blue</listEntry>
+            <listEntry value="255">@Strings.Color_DkBlue</listEntry>
+            <listEntry value="16733440">@Strings.Color_Orange</listEntry>
+            <listEntry value="16711935">@Strings.Color_Pink</listEntry>
+            <listEntry value="11141375">@Strings.Color_Purple</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

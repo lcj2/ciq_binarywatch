@@ -1,0 +1,2 @@
+project.manifest = manifest.xml
+base.sourcePath = source/*.mc    # restrict the base source path to only source files immediately within the source folder

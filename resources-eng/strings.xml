@@ -1,0 +1,22 @@
+<strings>
+    <string id="AppName">BinaryWatch</string>
+    <string id="AppVersion">App Version</string>
+    <string id="BackgroundColor">Background Color</string>
+    <string id="GridColor_Hours">Clock Hours Color</string>
+    <string id="GridColor_Minutes">Clock Minutes Color</string>
+    <string id="GridColor_Seconds">Clock Seconds Color</string>
+    <string id="GridColor_Off">Clock Off Color</string>
+    <string id="Color_Black">Black</string>
+    <string id="Color_White">White</string>
+    <string id="Color_LtGray">Light Gray</string>
+    <string id="Color_DkGray">Dark Gray</string>
+    <string id="Color_Red">Red</string>
+    <string id="Color_DkRed">Dark Red</string>
+    <string id="Color_Green">Green</string>
+    <string id="Color_DkGreen">Dark Green</string>
+    <string id="Color_Blue">Blue</string>
+    <string id="Color_DkBlue">Dark Blue</string>
+    <string id="Color_Orange">Orange</string>
+    <string id="Color_Pink">Pink</string>
+    <string id="Color_Purple">Purple</string>
+</strings>

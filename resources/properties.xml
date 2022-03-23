@@ -1,0 +1,8 @@
+<properties>
+    <property id="APP_VERSION" type="string">---</property>
+    <property id="PROP_BACKGROUND_COLOR" type="number">0</property>
+    <property id="PROP_GRID_HOURS" type="number">65280</property>
+    <property id="PROP_GRID_MINUTES" type="number">16733440</property>
+    <property id="PROP_GRID_SECONDS" type="number">43775</property>
+    <property id="PROP_GRID_OFF" type="number">11184810</property>
+</properties>
